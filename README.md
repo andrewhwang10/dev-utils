@@ -1,2 +1,2 @@
 # dev-utils
-My personal dev utility files (e.g. .bashrc, aliases, 
+My personal dev utility files (e.g. .bashrc, aliases) 
